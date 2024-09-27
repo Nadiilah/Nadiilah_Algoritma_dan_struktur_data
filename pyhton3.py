@@ -1,0 +1,5 @@
+print(Nadiilah,'('18')',',','dari',pangkalpinang,',kata mutiara:'you are enough just as you are')
+print('\nTipe dari nama_lengkap:',type(Nadiilah))
+print('Tipe dari usia:',type(18))
+print('tipe dari alamat:',type(pangkalpinang))
+print('Tipe dari kata_mutiara:',type(you are enough just as you are))
